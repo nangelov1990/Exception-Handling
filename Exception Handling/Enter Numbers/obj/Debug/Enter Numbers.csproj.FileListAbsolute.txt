@@ -1,0 +1,5 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Enter Numbers\bin\Debug\Enter Numbers.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Enter Numbers\bin\Debug\Enter Numbers.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Enter Numbers\bin\Debug\Enter Numbers.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Enter Numbers\obj\Debug\Enter Numbers.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Enter Numbers\obj\Debug\Enter Numbers.pdb

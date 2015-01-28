@@ -1,0 +1,6 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Square Root\bin\Debug\Square Root.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Square Root\bin\Debug\Square Root.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Square Root\bin\Debug\Square Root.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Square Root\obj\Debug\Square Root.csprojResolveAssemblyReference.cache
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Square Root\obj\Debug\Square Root.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\02. Exception-Handling\Homework\Exception Handling\Square Root\obj\Debug\Square Root.pdb
